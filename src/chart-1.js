@@ -174,3 +174,5 @@ var february_17 = parser('February-17')
     .call(yAxis)
 
 }
+
+export {xPositionScale, yPositionScale, width, height, colorScale, line, parser}
